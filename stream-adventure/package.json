@@ -1,0 +1,22 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "Solutions for stream-adventure (https://github.com/substack/stream-adventure)",
+  "dependencies": {
+    "concat-stream": "^1.5.0",
+    "duplexer2": "^0.0.2",
+    "request": "^2.61.0",
+    "split": "^1.0.0",
+    "through": "^2.3.8",
+    "through2": "^2.0.0",
+    "through2-map": "^2.0.0",
+    "trumpet": "^1.7.1",
+    "websocket-stream": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Chen (http://davidchen.io)",
+  "license": "MIT"
+}
