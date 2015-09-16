@@ -1,0 +1,15 @@
+{
+  "name": "@davidcgl/how-to-npm",
+  "version": "1.0.1",
+  "description": "How to NPM (https://github.com/npm/how-to-npm)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidcgl/nodeschool"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "David Chen (http://davidchen.io)",
+  "license": "MIT",
+  "dependencies": {}
+}
